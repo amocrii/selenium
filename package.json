@@ -1,0 +1,23 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "test automation homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amocrii/selenium.git"
+  },
+  "author": "Alin Mocrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amocrii/selenium/issues"
+  },
+  "homepage": "https://github.com/amocrii/selenium#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
